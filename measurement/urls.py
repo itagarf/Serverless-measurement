@@ -1,6 +1,5 @@
 """
 URL configuration for measurement project.
-
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.2/topics/http/urls/
 Examples:
@@ -21,6 +20,6 @@ from serverless_measurement import views
 
 urlpatterns = [
     #path('admin/', admin.site.urls),
-    path('home/', views.home),
-    path('index/', views.index)
+    path('home', views.home),
+    path('indexx', views.index)
 ]
