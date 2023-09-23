@@ -7,4 +7,3 @@ Majority of the code will be in Python.
 
 Another repo will house the CI/CD or deployment process. This is an attempt at going serverless.
 
-## I hope this isn't another tech debt that I'll convert to "private" then go on with my life 😩
